@@ -1,0 +1,12 @@
+flutter_package_name_icon:
+  name: "Dursun Fıkraları"
+  package: "com.dursun.fikralari"
+  flutter_icons:
+    image_path: "assets/dursun/logo.png"
+    android: true
+    ios: true
+  flutter_native_splash:
+    image: assets/dursun/splash.png
+    color: "#FFFFFF"
+    android_disable_fullscreen: true
+    fill: true

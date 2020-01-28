@@ -1,0 +1,12 @@
+flutter_package_name_icon:
+  name: "Temel Fıkraları"
+  package: "com.temel.fikralari"
+  flutter_icons:
+    image_path: "assets/temel/logo.png"
+    android: true
+    ios: true
+  flutter_native_splash:
+    image: assets/temel/splash.png
+    color: "#FFFFFF"
+    android_disable_fullscreen: true
+    fill: true
